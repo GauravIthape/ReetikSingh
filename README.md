@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: 
 <br>-Java Full Stack Developer | Spring Boot | React | SQL | MongoDB<br>-Building scalable backend systems, REST APIs, and full-stack applications<br>-Strong foundation in authentication (JWT), database design, and software engineering principles<br>-Solved 500+ DSA problems with a focus on problem-solving and system thinking
 
 ## 🌐 Socials:
