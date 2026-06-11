@@ -1,6 +1,6 @@
 # 💫 About Me: 
 <br>-Java Full Stack Developer | Spring Boot | React | SQL | MongoDB<br>-Building scalable backend systems, REST APIs, and full-stack applications<br>-Strong foundation in authentication (JWT), database design, and software engineering principles<br>-Solved 500+ DSA problems with a focus on problem-solving and system thinking
-
+    
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/im.retix/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reetik-singh-7b0200288/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:reetik.developer@gmail.com) 
 
